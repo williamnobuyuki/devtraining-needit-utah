@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_screen">
+    <sys_ux_screen action="DELETE">
+        <active>true</active>
+        <app_config display_value="NeedIt Experience">1d77719547c47110f61b4c6d826d4387</app_config>
+        <description/>
+        <event_mappings>[ {
+  "eventMappingId" : "ckrgajjmsgaaaaccxddhiicciibburiisljj",
+  "isConfiguration" : false,
+  "offRowStorageId" : null,
+  "sourceEventApiName" : "sn_itam_workspace.MODAL_SELECTED_RELAY_33dd36c50b21301021fd092db4673a77",
+  "sourceEventCorrelationId" : null,
+  "sourceEventDefinition" : {
+    "apiName" : "sn_itam_workspace.MODAL_SELECTED_RELAY_33dd36c50b21301021fd092db4673a77",
+    "id" : null,
+    "type" : "UXEVENT"
+  },
+  "sourceEventSysId" : null,
+  "targets" : [ {
+    "broker" : null,
+    "clientScript" : null,
+    "conditional" : null,
+    "declarativeAction" : null,
+    "event" : {
+      "apiName" : "sn_canvas_core.MODAL_SELECTED",
+      "payload" : {
+        "type" : "MAP_CONTAINER",
+        "container" : {
+          "modalId" : {
+            "type" : "EVENT_PAYLOAD_BINDING",
+            "binding" : {
+              "address" : [ "modalId" ]
+            }
+          },
+          "showModal" : {
+            "type" : "EVENT_PAYLOAD_BINDING",
+            "binding" : {
+              "address" : [ "showModal" ]
+            }
+          },
+          "displayOptions" : {
+            "type" : "EVENT_PAYLOAD_BINDING",
+            "binding" : {
+              "address" : [ "displayOptions" ]
+            }
+          },
+          "bare" : {
+            "type" : "EVENT_PAYLOAD_BINDING",
+            "binding" : {
+              "address" : [ "bare" ]
+            }
+          }
+        }
+      },
+      "sysId" : "882eed4091382d3a41f1bb3f382ae089"
+    },
+    "operation" : null,
+    "targetId" : "ckrgajjmsgaaaaccwddhiiccsoddiibtuhh",
+    "type" : "EVENT"
+  } ]
+} ]</event_mappings>
+        <macroponent display_value="New asset modal default">518f75dd47c47110f61b4c6d826d4367</macroponent>
+        <macroponent_config>{
+  "query" : "",
+  "label" : "",
+  "bare" : true,
+  "scrollable" : "y",
+  "headerLevel" : "1",
+  "interceptNotifications" : false,
+  "propagateNotifications" : false,
+  "headingOnlyVisibleToScreenReaders" : false
+}</macroponent_config>
+        <name>New asset modal default</name>
+        <order>0</order>
+        <parent_macroponent display_value="home">748f75dd47c47110f61b4c6d826d4301</parent_macroponent>
+        <required_translations>[ ]</required_translations>
+        <rollback_screen/>
+        <screen_condition/>
+        <screen_type display_value="New asset modal">d98f75dd47c47110f61b4c6d826d435c</screen_type>
+        <sys_class_name>sys_ux_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-14 14:46:04</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>d58f75dd47c47110f61b4c6d826d436d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New asset modal default</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_ux_screen_d58f75dd47c47110f61b4c6d826d436d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-14 14:46:04</sys_updated_on>
+    </sys_ux_screen>
+    <sys_translated_text action="DELETE" query="documentkey=d58f75dd47c47110f61b4c6d826d436d"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>3faa8da0dbab5f846578f22ebf9619ee</instance_id>
+        <instance_name>dev66805</instance_name>
+        <name>sys_ux_screen_d58f75dd47c47110f61b4c6d826d436d</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_screen"><sys_ux_screen action="INSERT_OR_UPDATE"><active>true</active><app_config display_value="NeedIt Experience">1d77719547c47110f61b4c6d826d4387</app_config><description/><event_mappings>[ {
+  "eventMappingId" : "ckrgajjmsgaaaaccxddhiicciibburiisljj",
+  "isConfiguration" : false,
+  "offRowStorageId" : null,
+  "sourceEventApiName" : "sn_itam_workspace.MODAL_SELECTED_RELAY_33dd36c50b21301021fd092db4673a77",
+  "sourceEventCorrelationId" : null,
+  "sourceEventDefinition" : {
+    "apiName" : "sn_itam_workspace.MODAL_SELECTED_RELAY_33dd36c50b21301021fd092db4673a77",
+    "id" : null,
+    "type" : "UXEVENT"
+  },
+  "sourceEventSysId" : null,
+  "targets" : [ {
+    "broker" : null,
+    "clientScript" : null,
+    "conditional" : null,
+    "declarativeAction" : null,
+    "event" : {
+      "apiName" : "sn_canvas_core.MODAL_SELECTED",
+      "payload" : {
+        "type" : "MAP_CONTAINER",
+        "container" : {
+          "modalId" : {
+            "type" : "EVENT_PAYLOAD_BINDING",
+            "binding" : {
+              "address" : [ "modalId" ]
+            }
+          },
+          "showModal" : {
+            "type" : "EVENT_PAYLOAD_BINDING",
+            "binding" : {
+              "address" : [ "showModal" ]
+            }
+          },
+          "displayOptions" : {
+            "type" : "EVENT_PAYLOAD_BINDING",
+            "binding" : {
+              "address" : [ "displayOptions" ]
+            }
+          },
+          "bare" : {
+            "type" : "EVENT_PAYLOAD_BINDING",
+            "binding" : {
+              "address" : [ "bare" ]
+            }
+          }
+        }
+      },
+      "sysId" : "882eed4091382d3a41f1bb3f382ae089"
+    },
+    "operation" : null,
+    "targetId" : "ckrgajjmsgaaaaccwddhiiccsoddiibtuhh",
+    "type" : "EVENT"
+  } ]
+} ]</event_mappings><macroponent display_value="New asset modal default">518f75dd47c47110f61b4c6d826d4367</macroponent><macroponent_config>{
+  "query" : "",
+  "label" : "",
+  "bare" : true,
+  "scrollable" : "y",
+  "headerLevel" : "1",
+  "interceptNotifications" : false,
+  "propagateNotifications" : false,
+  "headingOnlyVisibleToScreenReaders" : false
+}</macroponent_config><name>New asset modal default</name><order>0</order><parent_macroponent display_value="home">748f75dd47c47110f61b4c6d826d4301</parent_macroponent><required_translations>[ ]</required_translations><rollback_screen/><screen_condition/><screen_type display_value="New asset modal">d98f75dd47c47110f61b4c6d826d435c</screen_type><sys_class_name>sys_ux_screen</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-07-14 14:46:04</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>d58f75dd47c47110f61b4c6d826d436d</sys_id><sys_mod_count>0</sys_mod_count><sys_name>New asset modal default</sys_name><sys_overrides/><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_ux_screen_d58f75dd47c47110f61b4c6d826d436d</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-07-14 14:46:04</sys_updated_on></sys_ux_screen><sys_translated_text action="delete_multiple" query="documentkey=d58f75dd47c47110f61b4c6d826d436d"/></record_update>]]></payload>
+        <payload_hash>322797852</payload_hash>
+        <record_name>New asset modal default</record_name>
+        <reverted_from/>
+        <source>539f0b09474c3110f61b4c6d826d43c4</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-14 14:46:04</sys_created_on>
+        <sys_id>d58f75dd47c47110f61b4c6d826d436f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18954ddbb3a0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-14 14:46:04</sys_updated_on>
+        <type>UX Screen</type>
+        <update_guid>1d8f75dd6cc471108295c9a64355df6e</update_guid>
+        <update_guid_history>1d8f75dd6cc471108295c9a64355df6e:322797852</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-14 14:50:13</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_screen">sys_ux_screen</sys_db_object>
+        <sys_id>457cb4a60191432caebb585a19bb80c4</sys_id>
+        <sys_metadata>d58f75dd47c47110f61b4c6d826d436d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New asset modal default</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_ux_screen_d58f75dd47c47110f61b4c6d826d436d</sys_update_name>
+        <sys_update_version display_value="sys_ux_screen_d58f75dd47c47110f61b4c6d826d436d">d58f75dd47c47110f61b4c6d826d436f</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-14 14:50:13</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
