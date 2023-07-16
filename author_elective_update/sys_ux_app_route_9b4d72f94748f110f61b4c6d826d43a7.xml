@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
+    <sys_ux_app_route action="DELETE">
+        <app_config display_value="NeedIt Experience">f30d66941b0d0510b81fdce7cc4bcb52</app_config>
+        <description/>
+        <extension_point/>
+        <fields>table,sysId</fields>
+        <icon/>
+        <name>Record default Taxonomy Topic Selection Modal</name>
+        <optional_parameters/>
+        <order>0</order>
+        <parent_macroponent display_value="Record">4b3d3eb94748f110f61b4c6d826d4300</parent_macroponent>
+        <parent_macroponent_composition_element_id>modalContainerViewport</parent_macroponent_composition_element_id>
+        <route_type>taxonomy-topic-selection</route_type>
+        <screen_type display_value="Record default Taxonomy Topic Selection Modal">de4d32f94748f110f61b4c6d826d438e</screen_type>
+        <sys_class_name>sys_ux_app_route</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-16 08:32:57</sys_created_on>
+        <sys_id>9b4d72f94748f110f61b4c6d826d43a7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Record default Taxonomy Topic Selection Modal</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_ux_app_route_9b4d72f94748f110f61b4c6d826d43a7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-16 08:32:57</sys_updated_on>
+    </sys_ux_app_route>
+    <sys_translated_text action="DELETE" query="documentkey=9b4d72f94748f110f61b4c6d826d43a7"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>3faa8da0dbab5f846578f22ebf9619ee</instance_id>
+        <instance_name>dev66805</instance_name>
+        <name>sys_ux_app_route_9b4d72f94748f110f61b4c6d826d43a7</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route"><sys_ux_app_route action="INSERT_OR_UPDATE"><app_config display_value="NeedIt Experience">f30d66941b0d0510b81fdce7cc4bcb52</app_config><description/><extension_point/><fields>table,sysId</fields><icon/><name>Record default Taxonomy Topic Selection Modal</name><optional_parameters/><order>0</order><parent_macroponent display_value="Record">4b3d3eb94748f110f61b4c6d826d4300</parent_macroponent><parent_macroponent_composition_element_id>modalContainerViewport</parent_macroponent_composition_element_id><route_type>taxonomy-topic-selection</route_type><screen_type display_value="Record default Taxonomy Topic Selection Modal">de4d32f94748f110f61b4c6d826d438e</screen_type><sys_class_name>sys_ux_app_route</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-07-16 08:32:57</sys_created_on><sys_id>9b4d72f94748f110f61b4c6d826d43a7</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Record default Taxonomy Topic Selection Modal</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_ux_app_route_9b4d72f94748f110f61b4c6d826d43a7</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-07-16 08:32:57</sys_updated_on></sys_ux_app_route><sys_translated_text action="delete_multiple" query="documentkey=9b4d72f94748f110f61b4c6d826d43a7"/></record_update>]]></payload>
+        <payload_hash>-2068136866</payload_hash>
+        <record_name>Record default Taxonomy Topic Selection Modal</record_name>
+        <reverted_from/>
+        <source>539f0b09474c3110f61b4c6d826d43c4</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-16 08:32:57</sys_created_on>
+        <sys_id>974d72f94748f110f61b4c6d826d43a9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1895dd4da170000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-16 08:32:57</sys_updated_on>
+        <type>UX App Route</type>
+        <update_guid>db4d72f96f48f110448f5bb0cfe2e7a8</update_guid>
+        <update_guid_history>db4d72f96f48f110448f5bb0cfe2e7a8:-2068136866</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-16 08:40:24</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_app_route">sys_ux_app_route</sys_db_object>
+        <sys_id>15534053d6604d4c88899d5522b48901</sys_id>
+        <sys_metadata>9b4d72f94748f110f61b4c6d826d43a7</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Record default Taxonomy Topic Selection Modal</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_ux_app_route_9b4d72f94748f110f61b4c6d826d43a7</sys_update_name>
+        <sys_update_version display_value="sys_ux_app_route_9b4d72f94748f110f61b4c6d826d43a7">974d72f94748f110f61b4c6d826d43a9</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-16 08:40:24</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
